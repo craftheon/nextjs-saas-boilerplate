@@ -5,7 +5,7 @@ A sample toolbox with quickly to create a saas app. Includes CLI tools, frontend
 
 ## Usage
 ``` shell
-$ npm install -g @devsmeta/falcon
+$ curl --proto '=https' --tlsv1.2 -sSf https://falcon.yuang.space | sh
 ```
 
 ``` shell
