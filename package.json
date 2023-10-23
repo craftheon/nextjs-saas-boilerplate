@@ -1,0 +1,23 @@
+{
+  "name": "@devsmeta/creative-toolbox",
+  "version": "1.0.0",
+  "description": "saas creative toolbox",
+  "private": "false",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuangwei/creative-toolbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuangwei/creative-toolbox/issues"
+  },
+  "homepage": "https://github.com/yuangwei/creative-toolbox#readme"
+}
