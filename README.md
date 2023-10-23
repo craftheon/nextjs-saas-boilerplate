@@ -5,7 +5,7 @@ A sample toolbox with quickly to create a saas app. Includes CLI tools, frontend
 
 ## Usage
 ``` shell
-$ npm install -g creative-toolbox
+$ npm install -g @devsmeta/falcon
 ```
 
 ``` shell
