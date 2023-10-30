@@ -1,4 +1,4 @@
-creative toolbox
+eureka
 ---
 
 A sample toolbox with quickly to create a saas app. Includes CLI tools, frontend app boilerplate, frontend ui components library, backend app boilerplate(based on golang), etc.
