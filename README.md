@@ -10,7 +10,7 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://devsmeta.yuang.space | sh
 
 ## Usage
 ``` shell
-$ dm { command } {subcommand} --config={configValue}
+$ dm {command} {subcommand} --config={configValue}
 
 # example
 $ dm create webapp --name=saasapp
