@@ -828,7 +828,7 @@ jest-worker@^26.2.1:
     merge-stream "^2.0.0"
     supports-color "^7.0.0"
 
-"js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
+js-tokens@^4.0.0:
   version "4.0.0"
   resolved "https://registry.npmmirror.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
   integrity sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==
@@ -867,13 +867,6 @@ lodash.uniq@^4.5.0:
   version "4.5.0"
   resolved "https://registry.npmmirror.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
   integrity sha512-xfBaXQd9ryd9dlSDvnvI0lvxfLJlYAZzXomUYzLKtUeOQvOP5piqAWuGtrhWeqaXK9hhoM/iyJc5AV+XfsX3HQ==
-
-loose-envify@^1.1.0:
-  version "1.4.0"
-  resolved "https://registry.npmmirror.com/loose-envify/-/loose-envify-1.4.0.tgz#71ee51fa7be4caec1a63839f7e682d8132d30caf"
-  integrity sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==
-  dependencies:
-    js-tokens "^3.0.0 || ^4.0.0"
 
 magic-string@^0.30.3, magic-string@^0.30.4:
   version "0.30.5"
@@ -1276,25 +1269,10 @@ randombytes@^2.1.0:
   dependencies:
     safe-buffer "^5.1.0"
 
-react-dom@^18.2.0:
-  version "18.2.0"
-  resolved "https://registry.npmmirror.com/react-dom/-/react-dom-18.2.0.tgz#22aaf38708db2674ed9ada224ca4aa708d821e3d"
-  integrity sha512-6IMTriUmvsjHUjNtEDudZfuDQUoWXVxKHhlEGSk81n4YFS+r/Kl99wXiwlVXtPBtJenozv2P+hxDsw9eA7Xo6g==
-  dependencies:
-    loose-envify "^1.1.0"
-    scheduler "^0.23.0"
-
 react-is@^16.7.0:
   version "16.13.1"
   resolved "https://registry.npmmirror.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
-
-react@^18.2.0:
-  version "18.2.0"
-  resolved "https://registry.npmmirror.com/react/-/react-18.2.0.tgz#555bd98592883255fa00de14f1151a917b5d77d5"
-  integrity sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ==
-  dependencies:
-    loose-envify "^1.1.0"
 
 regenerator-runtime@^0.14.0:
   version "0.14.0"
@@ -1398,13 +1376,6 @@ safe-identifier@^0.4.2:
   version "0.4.2"
   resolved "https://registry.npmmirror.com/safe-identifier/-/safe-identifier-0.4.2.tgz#cf6bfca31c2897c588092d1750d30ef501d59fcb"
   integrity sha512-6pNbSMW6OhAi9j+N8V+U715yBQsaWJ7eyEUaOrawX+isg5ZxhUlV1NipNtgaKHmFGiABwt+ZF04Ii+3Xjkg+8w==
-
-scheduler@^0.23.0:
-  version "0.23.0"
-  resolved "https://registry.npmmirror.com/scheduler/-/scheduler-0.23.0.tgz#ba8041afc3d30eb206a487b6b384002e4e61fdfe"
-  integrity sha512-CtuThmgHNg7zIZWAXi3AsyIzA3n4xx7aNyjwC2VJldO2LMVDhFK+63xGqq6CsJH4rTAt6/M+N4GhZiDYPx9eUw==
-  dependencies:
-    loose-envify "^1.1.0"
 
 serialize-javascript@^4.0.0:
   version "4.0.0"

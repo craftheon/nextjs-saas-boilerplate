@@ -45,5 +45,6 @@ const buildEntry = function (entryName) {
 
 module.exports = [
   ...buildEntry('index'),
-  ...buildEntry('sections')
+  ...buildEntry('sections'),
+  ...buildEntry('themes')
 ]
