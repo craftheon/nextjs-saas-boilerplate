@@ -15,8 +15,6 @@
     "outDir": "dist",
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
-    "emitDeclarationOnly": true,
-    "jsxImportSource": "@emotion/react"
-
+    "emitDeclarationOnly": true
   }
 }

@@ -19,6 +19,8 @@
     "@rollup/plugin-typescript": "^11.1.5",
     "@types/react": "^18.2.33",
     "postcss": "^8.4.31",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "rollup": "^4.1.4",
     "rollup-plugin-dts": "^6.1.0",
     "rollup-plugin-peer-deps-external": "^2.2.4",
@@ -28,7 +30,6 @@
     "typescript": "^5.2.2"
   },
   "peerDependencies": {
-    "@emotion/react": "^11.11.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

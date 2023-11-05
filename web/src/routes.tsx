@@ -1,4 +1,4 @@
-import Demo from "./pages/Demo"
+import Demo from "./features/Demo"
 
 export default [
   {
