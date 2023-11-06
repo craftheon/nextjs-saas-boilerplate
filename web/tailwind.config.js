@@ -9,7 +9,7 @@ export default {
   ],
   theme: {
     extend: {
-      colors: themes('Red'),
+      colors: themes('Indigo'),
     },
   },
   plugins: [],
