@@ -10,6 +10,7 @@ export default defineNuxtConfig({
     },
   },
   app: {
-    buildAssetsDir: '/build/'
+    buildAssetsDir: '/build/',
+    // pageTransition: { name: 'page', mode: 'out-in' }
   }
 })
